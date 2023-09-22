@@ -181,12 +181,13 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
  
 
 ## STM 32 CUBE PROGRAM :
-
 ```
-NAME: LAVANYA M
+DEVELOPED BY: LAVANYA M
 REG NO: 212222110021
 DEPT: CSE(IOT)
+```
 
+```
 #include "main.h"
 #include "lcd.h"
 #include "stdbool.h"
